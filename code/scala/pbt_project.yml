@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: 7itkzg12.c9ijnqxg@pjm37nf9.com
     createdAt: '2026-03-06 15:16:53'
     configurations:
-      pipelineConfigurations/sharell.schiller/Jermaine_CorkeryJune_BuggIna_Schinner/dev:
-        name: dev
-        author: null
-        createdAt: '2026-03-06 15:16:53'
       pipelineConfigurations/sharell.schiller/Jermaine_CorkeryJune_BuggIna_Schinner/dev2:
         name: dev2
-        author: null
-        createdAt: '2026-03-06 15:16:53'
-      pipelineConfigurations/sharell.schiller/Jermaine_CorkeryJune_BuggIna_Schinner/dev3:
-        name: dev3
         author: null
         createdAt: '2026-03-06 15:16:53'
     basePipeline: 513/pipelines/Jermaine_CorkeryJune_BuggIna_Schinner
